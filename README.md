@@ -27,7 +27,6 @@
  
 <br>
 <hr>
-<br>
 <h2>Have a project in mind? Contact me here:</h2>
  
 <div>
