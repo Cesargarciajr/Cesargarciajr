@@ -1,5 +1,7 @@
 ## Welcome to my Profile  😁
 
+Currently studying <strong>Full Stack Web Developer</strong> at  <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://codeinstitute.net/ie/wp-content/themes/codeinstitute/img/svg/Code_logo_grey_fit.svg"></a>
+
  <div>
    <a href="https://github.com/Cesargarciajr">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cesargarciajr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
