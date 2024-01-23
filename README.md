@@ -1,4 +1,4 @@
-<h1>Welcome to my Profile  😁</h1>
+<h2>Welcome to my Profile  😁</h2>
 
 <p>Currently studying <strong>Full Stack Web Developer</strong> at    <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://codeinstitute.net/ie/wp-content/themes/codeinstitute/img/svg/Code_logo_grey_fit.svg"></a>
 </p>
