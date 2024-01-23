@@ -1,7 +1,7 @@
-## Welcome to my Profile  😁
+<h1>Welcome to my Profile  😁</h1>
 
-Currently studying <strong>Full Stack Web Developer</strong> at    <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://codeinstitute.net/ie/wp-content/themes/codeinstitute/img/svg/Code_logo_grey_fit.svg"></a>
-
+<p>Currently studying <strong>Full Stack Web Developer</strong> at    <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://codeinstitute.net/ie/wp-content/themes/codeinstitute/img/svg/Code_logo_grey_fit.svg"></a>
+</p>
  <div>
    <a href="https://github.com/Cesargarciajr">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cesargarciajr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -34,11 +34,18 @@ Currently studying <strong>Full Stack Web Developer</strong> at    <a href="http
  </div>
  
 <br>
- 
-### Have a project in mind? Contact me here: 
+<hr>
+<br>
+<h2>Have a project in mind? Contact me here:</h2>
  
 <div>
    <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:cesargarcia.elder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/csrgjr1" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake.svg">
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake.svg">
+</picture>
