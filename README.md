@@ -1,42 +1,145 @@
-<h2>Welcome to my Profile  😁</h2>
+<h2 align="center">Welcome to my Profile  😁</h2>
 
-<p>Currently studying <strong>Full Stack Web Developer</strong> at    <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://codeinstitute.net/ie/wp-content/themes/codeinstitute/img/svg/Code_logo_grey_fit.svg"></a>
+<p align="center">
+I am an enthusiastic student with a passion for web development. My objective is to craft scalable web applications that are not only easy to maintain but also deliver a seamless user experience. I am dedicated to continual learning and constantly experimenting with cutting-edge technologies and frameworks to uncover optimal solutions for the challenges at hand.
 </p>
- <div>
-   <a href="https://github.com/Cesargarciajr">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cesargarciajr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesargarciajr&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Materialize" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/materialize-css-logo-icon.png">
-  <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png">
-   <img align="center" alt="Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg">
-  <img align="center" alt="Stripe" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
- </div>
- 
+
 <br>
-<hr>
-<h2>Have a project in mind? Contact me here:</h2>
- 
-<div>
-   <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:cesargarcia.elder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/csrgjr1" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+<br>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
+
+<br>
+
+<br>
+
+- 🔭 Currently studying <strong>Full Stack Web Developer</strong> at         <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="50" width="50" src="https://codeinstitute.net/ie/wp-content/themes/codeinstitute/img/svg/Code_logo_grey_fit.svg"></a>
+
+- 🌱 Currently learning into **Development Principles**.
+
+- 🔍 Explore my projects on [**GitHub**](https://github.com/Cesargarciajr)!
+
+- 📫 Reach me at: **cesargarcia.elder@gmail.com**.
+
+- 💬 Ask me about **My Journey** so far.
+
+- 🤝 Seeking guidance on **Creating Accessible Websites**.
+
+<br>
+<br>
+
+## 🎯 Future Goals
+
+- 🧠 Master the essentials of a **Successful FullStack Web Developer**.
+- 🌟 Share my knowledge and experiences, guiding and mentoring fellow tech enthusiasts.
+- 🤖 Create a groundbreaking project that inspires more individuals to join the tech world, much like my journey.
+
+## 📈 Achievements
+
+- ☕ Since 2023, committed to **Dedicated Studies**.
+- 🤝 Earned multiple certificates from esteemed platforms, including **MimoApp HTML, Python and Front-end Developer and CodeCademy JavaScript Fundamentals**.
+- 🏆 Chosen to participate in the prestigious **CodeInstitute Bootcamp** and successfully deployed **5 original projects**.
+- 🎉 Started a new Full Stack Developer course focused in other technologies such as **React, Node.js, TypeScript, and TailWind** by <a href="https://devemdobro.com/matriculas-abertas/"><img alt="CodeInstitute" height="20" width="50" src="https://devemdobro.com/wp-content/uploads/2022/07/devQuestlogo-final.png"></a>
+
+<br>
+<br>
+
+<h2 align="center">📫 Let's Connect!</h2>
+<div align = "center">
+
+<a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ [![Gmail: Cesar Garcia](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cesargarcia.elder@gmail.com)](mailto:cesargarcia.elder@gmail.com)&nbsp;
+ <a href="https://discord.gg/csrgjr1" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href="https://github.com/Cesargarciajr" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" target="_blank"></a>
 </div>
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake.svg">
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake.svg">
+<div align = "center">
+
+<h2 align="center">🛠️ Linguagens e Ferramentas</h2>
+
+<details open>
+<summary><b>🏗️ DevOPS</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white)
+</details>
+
+<details open>
+<summary><b>🗄️ Database</b></summary>
+<br>
+
+![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>🧰 Backend</b></summary>
+<br>
+ 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+
+<details open>
+<summary><b>💻 Software and Tools</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/-git-red?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>🏄‍♂️ Frontend</b></summary>
+<br>
+  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)&nbsp;
+</details>
+
+</div>
+
+<br>
+
+<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+
+<details>
+<summary><b>🔥 Streak Statistics</b></summary>
+<br>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Cesargarciajr&theme=radical&hide_border=true" alt="bush1D3v" width="390"/>
+</p>
+</details>
+  
+</p>
+</details>
+
+<details>
+<summary><b>⚡ GitHub Public Stats</b></summary>
+<br>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cesargarciajr&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesargarciajr&layout=compact&langs_count=6&theme=radical"/>
+</p>
+</details>
+
+<div align="center">
+  <img align="center" alt="bush1D3v's profile views counter" src="https://profile-counter.glitch.me/Cesargarciajr/count.svg" />
+</div>
+
+<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
+
+<br>
+<br>
+<picture align="center">
+ <source align="right" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake-dark.svg">
+ <source align="right" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake.svg">
+ <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake.svg">
 </picture>
