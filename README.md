@@ -1,4 +1,5 @@
-<a href="https://github.com/Cesargarciajrs"><img width=100% src="[https://capsule-render.vercel.app/api?type=waving&height=100&color=FF6E96](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567)"/></a>
+<a href="https://github.com/Cesargarciajr"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7EBB7E&random=false&width=435&lines=Welcome+to+my+profile...%F0%9F%91%8B;I'm+Cesar!+%F0%9F%A4%93" alt="Typing SVG" /></a>
 
 <p align="center">
@@ -144,3 +145,5 @@ I am an enthusiastic student with a passion for web development. My objective is
  <source align="right" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake.svg">
  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake.svg">
 </picture>
+
+<a href="https://github.com/Cesargarciajr"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567&reversal=true&section=footer"/></a>
