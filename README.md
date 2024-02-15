@@ -1,4 +1,5 @@
-<h2 align="center">Welcome to my Profile  😁</h2>
+<a href="https://github.com/Cesargarciajrs"><img width=100% src="[https://capsule-render.vercel.app/api?type=waving&height=100&color=FF6E96](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567)"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7EBB7E&random=false&width=435&lines=Welcome+to+my+profile...%F0%9F%91%8B;I'm+Cesar!+%F0%9F%A4%93" alt="Typing SVG" /></a>
 
 <p align="center">
 I am an enthusiastic student with a passion for web development. My objective is to craft scalable web applications that are not only easy to maintain but also deliver a seamless user experience. I am dedicated to continual learning and constantly experimenting with cutting-edge technologies and frameworks to uncover optimal solutions for the challenges at hand.
