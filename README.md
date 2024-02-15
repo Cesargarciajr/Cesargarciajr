@@ -84,6 +84,7 @@ I am an enthusiastic student with a passion for web development. My objective is
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+</details>
 
 <details open>
 <summary><b>💻 Software and Tools</b></summary>
@@ -113,7 +114,7 @@ I am an enthusiastic student with a passion for web development. My objective is
 
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
 
-<details>
+<details open>
 <summary><b>🔥 Streak Statistics</b></summary>
 <br>
 <p align="center">
@@ -121,10 +122,7 @@ I am an enthusiastic student with a passion for web development. My objective is
 </p>
 </details>
   
-</p>
-</details>
-
-<details>
+<details open>
 <summary><b>⚡ GitHub Public Stats</b></summary>
 <br>
 <p align="center">
