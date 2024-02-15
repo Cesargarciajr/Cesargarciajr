@@ -44,7 +44,7 @@ I am an enthusiastic student with a passion for web development. My objective is
 - ☕ Since 2023, committed to **Dedicated Studies**.
 - 🤝 Earned multiple certificates from esteemed platforms, including **MimoApp HTML, Python and Front-end Developer and CodeCademy JavaScript Fundamentals**.
 - 🏆 Chosen to participate in the prestigious **CodeInstitute Bootcamp** and successfully deployed **5 original projects**.
-- 🎉 Started a new Full Stack Developer course focused in other technologies such as **React, Node.js, TypeScript, and TailWind** by <a href="https://devemdobro.com/matriculas-abertas/"><img alt="CodeInstitute" height="20" width="50" src="https://devemdobro.com/wp-content/uploads/2022/07/devQuestlogo-final.png"></a>
+- 🎉 Started a new Full Stack Developer course emphasizing technologies like **React**, **Node.js**, **TypeScript**, and **TailWind**. by  <a href="https://devemdobro.com/matriculas-abertas/"><img alt="CodeInstitute" height="20" width="50" src="https://devemdobro.com/wp-content/uploads/2022/07/devQuestlogo-final.png"></a>
 
 <br>
 <br>
