@@ -2,6 +2,7 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BB501D&center=true&vCenter=true&multiline=true&random=false&width=435&height=60&lines=Welcome+to+my+profile...%F0%9F%91%8B;I'm+Cesar!+%F0%9F%A4%93" alt="Typing SVG" /></a>
 </div>
+<br>
 <p align="center">
 I am an enthusiastic student with a passion for web development. My objective is to craft scalable web applications that are not only easy to maintain but also deliver a seamless user experience. I am dedicated to continual learning and constantly experimenting with cutting-edge technologies and frameworks to uncover optimal solutions for the challenges at hand.
 </p>
