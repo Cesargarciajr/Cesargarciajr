@@ -60,16 +60,16 @@ I am an enthusiastic student with a passion for web development. My objective is
 
 <div align = "center">
 
-<h2 align="center">🛠️ Linguagens e Ferramentas</h2>
+<h2 align="center">🛠️ Linguages and Tools </h2>
 
-<details open>
+<details>
 <summary><b>🏗️ DevOPS</b></summary>
 <br>
 
 ![Docker](https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white)
 </details>
 
-<details open>
+<details>
 <summary><b>🗄️ Database</b></summary>
 <br>
 
@@ -77,7 +77,7 @@ I am an enthusiastic student with a passion for web development. My objective is
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 </details>
 
-<details open>
+<details>
 <summary><b>🧰 Backend</b></summary>
 <br>
  
@@ -86,7 +86,7 @@ I am an enthusiastic student with a passion for web development. My objective is
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 </details>
 
-<details open>
+<details>
 <summary><b>💻 Software and Tools</b></summary>
 <br>
 
@@ -96,7 +96,7 @@ I am an enthusiastic student with a passion for web development. My objective is
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 </details>
 
-<details open>
+<details>
 <summary><b>🏄‍♂️ Frontend</b></summary>
 <br>
   
