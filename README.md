@@ -60,7 +60,7 @@ I am an enthusiastic student with a passion for web development. My objective is
 
 <div align = "center">
 
-<h2 align="center">🛠️ Linguages and Tools </h2>
+<h2 align="center">🛠️ Languages and Tools </h2>
 
 <details>
 <summary><b>🏗️ DevOPS</b></summary>
