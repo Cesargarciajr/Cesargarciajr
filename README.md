@@ -1,10 +1,17 @@
-<a href="https://github.com/Cesargarciajr"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
+<a href="https://github.com/MphatsoThyolaphaza"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BB501D&center=true&vCenter=true&multiline=true&random=false&width=435&height=60&lines=Welcome+to+my+profile...%F0%9F%91%8B;I'm+Cesar!+%F0%9F%A4%93" alt="Typing SVG" /></a>
 </div>
 <br>
 <p align="center">
-I am an enthusiastic student with a passion for web development. My objective is to craft scalable web applications that are not only easy to maintain but also deliver a seamless user experience. I am dedicated to continual learning and constantly experimenting with cutting-edge technologies and frameworks to uncover optimal solutions for the challenges at hand.
+Mphatso Thyolaphaza, a recent graduate with an MSc in Cyber Security, I bring a comprehensive understanding of modern cybersecurity challenges and solutions . My education has equipped me with a solid foundation in areas such as Malware Analysis, Cryptography, Network Security, and Penetration Testing. I am eager to apply my knowledge and skills in a professional setting and contribute to safeguarding organizations against cyber threats.
+
+Proficient in identifying and analyzing malware to mitigate security risks.
+Experienced in implementing cryptographic protocols to secure sensitive data.
+Skilled in designing and implementing network security measures to protect against cyber attacks.
+Knowledgeable in conducting penetration tests to identify vulnerabilities and improve overall security posture.
+Familiar with security fundamentals and best practices to ensure compliance with industry standards and regulations.
+Education
 </p>
 
 <br>
@@ -18,33 +25,33 @@ I am an enthusiastic student with a passion for web development. My objective is
 
 <br>
 
-- 🔭 Currently studying <strong>Full Stack Web Developer</strong> at         <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="50" width="50" src="https://codeinstitute.net/ie/wp-content/themes/codeinstitute/img/svg/Code_logo_grey_fit.svg"></a>
+- 🔭 Actively Looking For Employment <strong>Qualified Cyber Security Practitionerr</strong> at         <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="50" width="50" src="https://codeinstitute.net/ie/wp-content/themes/codeinstitute/img/svg/Code_logo_grey_fit.svg"></a>
 
-- 🌱 Currently learning into **Development Principles**.
+- 🌱 Vast Knowledge In **Cyber Security Analyst, Security Operations Center (SOC) Analyst, or Penetration Tester**.
 
-- 🔍 Explore my projects on [**GitHub**](https://github.com/Cesargarciajr)!
+- 🔍 Explore my projects on [**GitHub**](https://github.com/THYOLAPHAZA)!
 
-- 📫 Reach me at: **cesargarcia.elder@gmail.com**.
+- 📫 Reach me at: **thyolaphazamphatso@yahoo.co.uk**.
 
 - 💬 Ask me about **My Journey** so far.
 
-- 🤝 Seeking guidance on **Creating Accessible Websites**.
+- 🤝 Active and Exploring **Providing Solutions to Cyber Security Threats**.
 
 <br>
 <br>
 
 ## 🎯 Future Goals
 
-- 🧠 Master the essentials of a **Successful FullStack Web Developer**.
+- 🧠 Master the essentials of  **Cyber Security**.
 - 🌟 Share my knowledge and experiences, guiding and mentoring fellow tech enthusiasts.
 - 🤖 Create a groundbreaking project that inspires more individuals to join the tech world, much like my journey.
 
 ## 📈 Achievements
 
-- ☕ Since 2023, committed to **Dedicated Studies**.
-- 🤝 Earned multiple certificates from esteemed platforms, including **MimoApp HTML, Python and Front-end Developer and CodeCademy JavaScript Fundamentals**.
-- 🏆 Chosen to participate in the prestigious **CodeInstitute Bootcamp** and successfully deployed **5 original projects**.
-- 🎉 Started a new Full Stack Developer course emphasizing technologies like **React**, **Node.js**, **TypeScript**, and **TailWind**. by  <a href="https://devemdobro.com/matriculas-abertas/"><img alt="CodeInstitute" height="20" width="50" src="https://devemdobro.com/wp-content/uploads/2022/07/devQuestlogo-final.png"></a>
+- ☕ Since 2014, committed to **Dedicated Studies**.
+- 🤝 Earned Msc In Cyber Security(2024) From National College of Ireland, Bsc Information & Technology from CCT Collge Dublin, Diploma in Digital Marketing from City Colleges Dublim.
+- 🏆 Chosen to participate in the prestigious **AWS Services** and successfully deployed **2 original projects**.
+- 🎉 Started running Cyber Security Awareness among my peers as well as making appearances to various institutions where I have been speaking about the importances of being knowledgeable about Cyber Threats **React**, **Defence Master**, **Penetration Testing**, and **Cyber Threats**. by  <a href="https://devemdobro.com/matriculas-abertas/"><img alt="CodeInstitute" height="20" width="50" src="https://devemdobro.com/wp-content/uploads/2022/07/devQuestlogo-final.png"></a>
 
 <br>
 <br>
@@ -53,9 +60,9 @@ I am an enthusiastic student with a passion for web development. My objective is
 <div align = "center">
 
 <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- [![Gmail: Cesar Garcia](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cesargarcia.elder@gmail.com)](mailto:cesargarcia.elder@gmail.com)&nbsp;
+ [![Gmail: Mphatso Thyolaphaza](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thyolaphazamphatso@gmail.com)](mailto:cesargarcia.elder@gmail.com)&nbsp;
  <a href="https://discord.gg/csrgjr1" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- <a href="https://github.com/Cesargarciajr" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" target="_blank"></a>
+ <a href="https://github.com/THYOLAPHAZA" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" target="_blank"></a>
 </div>
 
 <div align = "center">
