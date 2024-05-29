@@ -52,7 +52,7 @@ I am an enthusiastic student with a passion for web development. My objective is
 <h2 align="center">📫 Let's Connect!</h2>
 <div align = "center">
 
-<a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/cesar-garcia-637973aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  [![Gmail: Cesar Garcia](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cesargarcia.elder@gmail.com)](mailto:cesargarcia.elder@gmail.com)&nbsp;
  <a href="https://discord.gg/csrgjr1" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href="https://github.com/Cesargarciajr" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" target="_blank"></a>
