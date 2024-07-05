@@ -18,9 +18,9 @@ I am an enthusiastic student with a passion for web development. My objective is
 
 <br>
 
-- 🔭 Currently studying <strong>Full Stack Web Developer</strong> at         <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="50" width="50" src="https://codeinstitute.net/ie/wp-content/themes/codeinstitute/img/svg/Code_logo_grey_fit.svg"></a>
+- 🔭 Currently studying <strong> Introduction to Computer Science</strong> at         <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"><img align="center" alt="Harvard-oline" height="50" width="50" src="https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg">Harvard Online</a>
 
-- 🌱 Currently learning into **Development Principles**.
+- 🌱 Currently learning **C, Data Structures and Web Development**.
 
 - 🔍 Explore my projects on [**GitHub**](https://github.com/Cesargarciajr)!
 
