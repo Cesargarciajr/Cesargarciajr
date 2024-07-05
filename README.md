@@ -18,7 +18,7 @@ I am an enthusiastic student with a passion for web development. My objective is
 
 <br>
 
-- 🔭 Currently studying <strong> Introduction to Computer Science</strong> at         <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"><img align="center" alt="Harvard-oline" height="50" width="50" src="https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg">Harvard Online</a>
+- 🔭 Currently studying <strong> Introduction to Computer Science</strong> at         <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"><img align="center" alt="Harvard-oline" height="50" width="50" src="https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg"></a>
 
 - 🌱 Currently learning **C, Data Structures and Web Development**.
 
