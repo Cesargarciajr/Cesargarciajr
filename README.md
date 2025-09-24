@@ -18,9 +18,9 @@ I am an enthusiastic student with a passion for web development. My objective is
 
 <br>
 
-- 🔭 Currently studying <strong> Introduction to Computer Science</strong> at         <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"><img align="center" alt="Harvard-oline" height="50" width="50" src="https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg"></a>
+- 🔭 Currently studying <strong> Certificate in Computing </strong> at <span style="background-color: white;"><a href="https://www.ncirl.ie"><img align="center" alt="Harvard-oline" height="50" width="50" src="https://www.ncirl.ie/Portals/0/NCI_Logo_Colour-01.png?ver=2024-11-11-111228-410"></a></span>
 
-- 🌱 Currently learning **C, Data Structures and Web Development**.
+- 🌱 Currently learning **Java, Computer Architecture Operating Systems and Networks, Databases**.
 
 - 🔍 Explore my projects on [**GitHub**](https://github.com/Cesargarciajr)!
 
@@ -28,7 +28,7 @@ I am an enthusiastic student with a passion for web development. My objective is
 
 - 💬 Ask me about **My Journey** so far.
 
-- 🤝 Seeking guidance on **Creating Accessible Websites**.
+- 🤝 Seeking guidance on **Make Full Career Transition**.
 
 <br>
 <br>
