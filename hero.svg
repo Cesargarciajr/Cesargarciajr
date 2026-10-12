@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title"><title id="title">Cesar Garcia — Full-Stack Developer and AI &amp; Machine Learning Student, Dublin, Ireland</title><defs>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38BDF8" stop-opacity=".8"/><stop offset=".48" stop-color="#293653"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".8"/></linearGradient>
+<linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101B30"/><stop offset="1" stop-color="#080D19"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#6D5ECA" stop-opacity=".27"/><stop offset="1" stop-color="#6D5ECA" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#A5B4FC" stroke-opacity=".065"/></pattern>
+<filter id="softglow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs><style>
+.orbit {transform-origin:924px 206px;animation:orbit 36s linear infinite}
+.orbit-reverse {transform-origin:924px 206px;animation:orbit 48s linear infinite reverse}
+.pulse {animation:pulse 4s ease-in-out infinite alternate}
+.type-mask {animation:type 11s steps(34,end) infinite}
+.cursor {animation:blink 1.2s steps(2,end) infinite}
+@keyframes orbit {to{transform:rotate(360deg)}}
+@keyframes pulse {from{opacity:.35}to{opacity:.95}}
+@keyframes type {0%,8%{width:0px}48%,88%{width:540px}98%,100%{width:0px}}
+@keyframes blink {0%,49%{opacity:1}50%,100%{opacity:.18}}
+@media(prefers-reduced-motion:reduce){.orbit,.orbit-reverse,.pulse,.type-mask,.cursor{animation:none!important}}
+</style>
+<rect x="1" y="1" width="1198" height="418" rx="28" fill="url(#ink)" stroke="url(#edge)"/>
+<rect x="2" y="2" width="1196" height="416" rx="27" fill="url(#grid)"/>
+<ellipse cx="943" cy="197" rx="270" ry="240" fill="url(#halo)"/>
+<path d="M56 1H1144" stroke="url(#accent)" stroke-width="2" opacity=".7"/>
+<g font-family="Inter,Arial,Helvetica,sans-serif">
+<circle class="pulse" cx="61" cy="53" r="5" fill="#67E8F9"/>
+<text x="78" y="59" fill="#A5B4CC" font-size="15" letter-spacing="2.5">DEVELOPER / DUBLIN, IRELAND</text>
+<text x="53" y="161" fill="#F3F6FF" font-size="91" font-weight="750" letter-spacing="-4">Cesar</text>
+<text x="53" y="250" fill="url(#accent)" font-size="101" font-weight="750" letter-spacing="-5">Garcia.</text>
+<text x="59" y="299" fill="#E2E8F0" font-size="27" font-weight="500">Full-Stack Development</text>
+<text x="59" y="338" fill="#AABAD1" font-size="25">AI &amp; Machine Learning Student</text>
+<defs><clipPath id="typing"><rect class="type-mask" x="0" y="0" width="540" height="36"/></clipPath></defs>
+<g transform="translate(60 365)" clip-path="url(#typing)">
+<text x="0" y="20" fill="#67E8F9" font-size="16" font-family="monospace">&gt; Building software. Exploring AI.</text>
+</g>
+<g fill="none" stroke-width="1.5">
+<circle cx="924" cy="206" r="158" stroke="#8294C7" stroke-opacity=".14"/>
+<circle cx="924" cy="206" r="113" stroke="#8294C7" stroke-opacity=".22"/>
+<g class="orbit"><circle cx="924" cy="206" r="158" stroke="url(#accent)" stroke-dasharray="165 828" stroke-linecap="round"/><circle cx="1082" cy="206" r="6" fill="#67E8F9" stroke="none"/></g>
+<g class="orbit-reverse"><circle cx="924" cy="206" r="113" stroke="#A78BFA" stroke-dasharray="90 620" stroke-linecap="round"/><circle cx="924" cy="93" r="5" fill="#C4B5FD" stroke="none"/></g>
+<path d="M734 125L802 153M1046 166L1123 120M1009 291L1080 338M755 290L820 269" stroke="#536A92" stroke-opacity=".6"/>
+</g>
+<rect x="806" y="135" width="238" height="144" rx="24" fill="#15233D" opacity=".95" stroke="url(#edge)"/>
+<rect x="818" y="147" width="214" height="120" rx="16" fill="#0C1424"/>
+<text x="925" y="225" text-anchor="middle" font-size="65" font-weight="600" font-family="monospace" fill="#67E8F9">&lt;/&gt;</text>
+<path d="M871 246H979" stroke="url(#accent)" stroke-width="2" class="pulse"/>
+<g font-size="17" font-family="monospace" text-anchor="middle">
+<rect x="684" y="98" width="73" height="47" rx="13" fill="#122239" stroke="#395675"/><text x="720" y="129" fill="#67E8F9">py</text>
+<rect x="1081" y="75" width="73" height="47" rx="13" fill="#201C3D" stroke="#5B4F8C"/><text x="1117" y="106" fill="#C4B5FD">ai</text>
+<rect x="1061" y="317" width="73" height="47" rx="13" fill="#162235" stroke="#36536F"/><text x="1097" y="348" fill="#67E8F9">js</text>
+</g>
+</g></svg>

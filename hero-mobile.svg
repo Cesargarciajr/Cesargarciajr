@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="480" viewBox="0 0 600 480" role="img" aria-labelledby="title"><title id="title">Cesar Garcia — Full-Stack Developer and AI &amp; Machine Learning Student</title><defs>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38BDF8" stop-opacity=".8"/><stop offset=".48" stop-color="#293653"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".8"/></linearGradient>
+<linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101B30"/><stop offset="1" stop-color="#080D19"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#6D5ECA" stop-opacity=".27"/><stop offset="1" stop-color="#6D5ECA" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#A5B4FC" stroke-opacity=".065"/></pattern>
+<filter id="softglow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs><style>.pulse{animation:pulse 4s ease-in-out infinite alternate}@keyframes pulse{from{opacity:.4}to{opacity:1}}@media(prefers-reduced-motion:reduce){.pulse{animation:none}}</style>
+<rect x="1" y="1" width="598" height="478" rx="28" fill="url(#ink)" stroke="url(#edge)"/>
+<rect x="2" y="2" width="596" height="476" rx="27" fill="url(#grid)"/>
+<circle cx="505" cy="150" r="195" fill="url(#halo)"/>
+<g font-family="Inter,Arial,Helvetica,sans-serif">
+<circle class="pulse" cx="43" cy="53" r="6" fill="#67E8F9"/>
+<text x="62" y="60" fill="#AFBDD5" font-size="17" letter-spacing="1.6">DUBLIN, IRELAND</text>
+<text x="36" y="170" fill="#F3F6FF" font-size="100" font-weight="750" letter-spacing="-4">Cesar</text>
+<text x="36" y="270" fill="url(#accent)" font-size="110" font-weight="750" letter-spacing="-5">Garcia.</text>
+<text x="43" y="328" fill="#E2E8F0" font-size="28">Full-Stack Development</text>
+<text x="43" y="371" fill="#B7C4DA" font-size="26">AI &amp; Machine Learning Student</text>
+<path d="M43 404H551" stroke="url(#accent)" opacity=".45"/>
+<text x="43" y="443" fill="#67E8F9" font-size="18" font-family="monospace">&gt; Building software. Exploring AI.</text>
+</g></svg>
